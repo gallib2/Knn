@@ -1,0 +1,17 @@
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\datd mining.exe.config
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\datd mining.exe
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\datd mining.pdb
+C:\Users\Gallib\Desktop\datd mining\datd mining\obj\Debug\datd mining.csprojResolveAssemblyReference.cache
+C:\Users\Gallib\Desktop\datd mining\datd mining\obj\Debug\datd mining.exe
+C:\Users\Gallib\Desktop\datd mining\datd mining\obj\Debug\datd mining.pdb
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\Accord.dll.config
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\Accord.dll
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\Accord.Math.Core.dll
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\Accord.Math.dll
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\Accord.Statistics.dll
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\Accord.xml
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\Accord.Math.xml
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\Accord.Math.Core.xml
+C:\Users\Gallib\Desktop\datd mining\datd mining\bin\Debug\Accord.Statistics.xml

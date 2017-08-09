@@ -1,0 +1,5 @@
+﻿\arffFiles\waveform_small.arff
+\arffFiles\isolet_small.arff
+\arffFiles\letter_small.arff
+\arffFiles\glass.arff
+\arffFiles\isolet.arff
